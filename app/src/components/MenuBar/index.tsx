@@ -23,7 +23,6 @@ const MenuBar: React.FC = () => {
     <Container>
       <Topside>
         <Logo />
-
         <MenuButton>
           <HomeIcon />
           <span>Página Inicial</span>
